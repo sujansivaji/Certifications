@@ -1,5 +1,6 @@
 # Certifications
 Data Science certification.
+![Alt text](certification_wallpaper.PNG?raw=true "Title")
 ## Introduction:
 I have consolidated the certfication comepleted till date for easy access. The certification completed so far:
   1. SQL - Data Camp
